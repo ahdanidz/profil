@@ -51,6 +51,7 @@ h2 {
 }
 
 .org-img {
+	border-color: solid;
 	width: 15%;
 	float: right;
 	margin-right: 30px;
@@ -79,6 +80,7 @@ h2 {
 }
 
 .link {
+	font-weight: bold;
 	font-size: 13pt;
 	text-decoration: none;
 	color: #162447;
@@ -87,12 +89,14 @@ h2 {
 }
 
 .top-link {
+	font-weight: bold;
 	text-align: right;
 	padding: 50px;
 }
 
 .footer-link {
+	font-weight: bold;
 	color: black;
 	text-decoration: none;
-	padding: 28px;
+	padding: 30px;
 }
