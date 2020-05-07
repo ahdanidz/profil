@@ -1,0 +1,98 @@
+body {
+	margin: 0;
+	font-family: verdana;
+	background-color: #77d8d8;
+}
+
+h1 {
+	color: #0779e4;
+	margin-top: 0;
+	font-family: 'Sacramento', cursive;
+	margin: 50px auto 0 auto;
+	font-size: 5.625rem;
+}
+
+h2 {
+	color: #4cbbb9;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 2.5rem;
+	font-weight: normal;
+}
+
+.top-container {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 20pt;
+	color: #4cbbb9;
+	background-color: #E4F9F5;
+	text-align: center;
+}
+
+.middle-container {
+	background-color: #eff3c6;
+	text-align: center;
+	
+}
+.bottom-container {
+	text-align: center;
+}
+
+
+.skill-row {
+	margin: 100px 50px 100px 50px;
+	text-align: left;
+	line-height: 2;
+}
+
+.edu-img {
+	float: left;
+	width: 25%;
+	margin-right: 30px;
+	margin-left: 30px;
+}
+
+.org-img {
+	width: 15%;
+	float: right;
+	margin-right: 30px;
+	margin-left: 30px;
+}
+
+.skill-img {
+	float: left;
+	width: 25%;
+	margin-right: 30px;
+	margin-left: 30px;
+}
+
+.top-pp {
+	width: 10%;
+	border-radius: 100%;
+	text-align: left;
+	margin: 20px auto auto 20px;
+	float: left;
+}
+
+.pp {
+	width: 15%;
+	border-radius: 100%;
+	margin-top: 20px;
+}
+
+.link {
+	font-size: 13pt;
+	text-decoration: none;
+	color: #162447;
+	text-align: center;
+	padding: 5px;
+}
+
+.top-link {
+	text-align: right;
+	padding: 50px;
+}
+
+.footer-link {
+	color: black;
+	text-decoration: none;
+	padding: 28px;
+}
